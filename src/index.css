@@ -37,11 +37,12 @@ App.jsx  Styles
 =================================================
 */
 .App{
-  margin-top: 70px;
   padding: 25px;
   border-radius: 20px;
   background-color: var(--Dark-Blue);
   max-width: 300px;
+  width: 95%;
+  margin: 50px auto 0;
   line-height: 2;
 }
 /*
