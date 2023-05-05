@@ -104,7 +104,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Add your name here](https://github.com/TRIPLE-ADE/react_rating_component)
+- Website - [React Rating Component](https://github.com/TRIPLE-ADE/react_rating_component)
 - Frontend Mentor - [@TRIPLE-ADE](https://www.frontendmentor.io/profile/TRIPLE-ADE)
 - Twitter - [@Triple123A](https://www.twitter.com/Triple123A)
 
