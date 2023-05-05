@@ -37,7 +37,7 @@ App.jsx  Styles
 =================================================
 */
 .App{
-  margin-top: 100px;
+  margin-top: 70px;
   padding: 25px;
   border-radius: 20px;
   background-color: var(--Dark-Blue);
@@ -98,11 +98,15 @@ p{
   width: 100%;
   padding: 8px 0;
   font-weight: 300;
+  cursor: pointer;
+}
+.btn--submit:disabled{
+  cursor: default;
 }
 .btn--submit:hover{
   background-color: var(--White);
   color: var(--orange);
-  cursor: pointer;
+ 
 }
 /*
 =================================================

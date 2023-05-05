@@ -15,7 +15,7 @@ const Rating = ({handleClick, handleSubmit, value}) => (
         <div className='buttons--container'> 
            {buttons.map((button) => <Button text={button.text} key={button.id} handleClick={handleClick}/>)}
         </div>
-        <button className='btn--submit' onClick={handleSubmit}>Submit</button>
+        <button className='btn--submit' onClick={handleSubmit} disabled={value === "" ? true : false}>Submit</button>
     </section>
 )
 
